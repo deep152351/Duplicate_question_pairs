@@ -6,6 +6,7 @@ Dataset
 
 The original Quora Question Pairs dataset contains ~400,000 question pairs.
 Due to computational constraints, this project was performed on the top 30,000 rows.
+[Dataset link:] (https://drive.google.com/file/d/132Wy4xu7eZ_igaoEvkiOX87Pmlfanbuq/view?usp=drive_link)
 
 Each sample contains:
 
